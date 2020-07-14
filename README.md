@@ -2,7 +2,7 @@
 
 ### Welcome to my repository.
 
-#### You can reach me on twitter [@geschenk__](https://twitter.com/geschenk__)
+#### You can DM me on twitter [@geschenk__](https://twitter.com/geschenk__)
 
 <!--
 **BradleyTim/BradleyTim** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
