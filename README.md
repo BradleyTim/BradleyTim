@@ -2,6 +2,8 @@
 
 ### Welcome to my repository.
 
+My preferred languages are Javascript, Pyhton and PHP.
+
 #### You can DM me on twitter [@geschenk__](https://twitter.com/geschenk__)
 
 <!--
