@@ -2,7 +2,7 @@
 
 ### Welcome to my repository.
 
-I am a fullstack dev. And preferred languages are Javascript, Python and PHP.
+I am a fullstack dev. And my preferred languages are Javascript, Python and PHP.
 
 #### You can DM me on twitter [@geschenk__](https://twitter.com/geschenk__)
 
