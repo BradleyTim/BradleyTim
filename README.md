@@ -6,7 +6,7 @@ Welcome to my repository.I am a freelance fullstack web dev specialized Javascri
 
 I am currently learning Laravel, and looking for someone to collaborate with on a project of their choice. 
 
-#### You can DM me on twitter [@geschenk__](https://twitter.com/obtgo)
+#### You can DM me on twitter [@obtgo](https://twitter.com/obtgo)
 
 <!--
 **BradleyTim/BradleyTim** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
